@@ -11,7 +11,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 - libro
 
-- tempo compleanno Silvia
+- tempo consegna
 
 - budget
 
