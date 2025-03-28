@@ -17,6 +17,8 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 - Amazon
 
+- sorprenderla
+
 ## Algoritmo
 
 Vado su Amazon cerco la lampada da tavolo.
@@ -35,3 +37,5 @@ Vado su Amazon cerco la lampada da tavolo.
 
 - SE non ho comprato nulla
   - compro il libro
+- ALTRIMENTI
+  - non la sorprendo
